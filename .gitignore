@@ -1,0 +1,11 @@
+# Compiled executables
+/mkfs_adder
+/mkfs_builder
+/validator
+
+# Object files and generated filesystem images
+*.o
+*.img
+
+# Input/test data (source-code-only upload)
+/file_*.txt
